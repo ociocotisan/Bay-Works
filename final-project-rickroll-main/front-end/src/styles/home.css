@@ -1,0 +1,49 @@
+.beforepic {
+    padding-top: 50px;
+}
+
+.photos {
+    display: block;
+    position: relative;
+    padding-top: 10rem;
+    margin-left: auto;
+
+    margin-right: auto;
+    border-radius: 15px;
+    overflow: scroll;
+    z-index: 1;
+}
+
+.motto {
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 1rem;
+    text-align: center;
+    text-decoration: wavy;
+    z-index: 1;
+    color: rgb(219, 219, 219);
+}
+
+.restofPage {
+    background-color: #171D1F;
+    padding-bottom: 5%;
+    box-sizing: border-box;
+    margin-bottom: 1rem;
+    margin-right: 1rem;
+    min-height: 84vh
+}
+
+.button1 {
+    display: block;
+    width: 30%;
+    border: none;
+    border-radius: 8px;
+    background-color: rgb(64, 116, 116);
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+}

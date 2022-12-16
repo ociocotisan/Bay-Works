@@ -1,0 +1,10 @@
+.HummingBird {
+    color: azure;
+    padding: 50px;
+}
+
+.page {
+
+    height: 85vh;
+    overflow: auto;
+}

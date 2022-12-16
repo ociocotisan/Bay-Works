@@ -1,0 +1,56 @@
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    height: 84vh;
+    overflow: auto;
+    margin: auto;
+    color: rgb(207, 205, 205);
+}
+
+.form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input[type="username"] {
+    margin-bottom: 20px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 20px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.submitButtonlog {
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    background-color: #84aeca;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.submitButtonlog:hover {
+    background-color: rgb(207, 205, 205);
+    color: black;
+}
+
+.title {
+    text-align: left;
+
+}

@@ -1,0 +1,139 @@
+
+.app-mount-point{
+    /* width: 100%;
+    margin-left: -8px;
+    margin-top: -22px;
+    padding: 0;
+    border: 0;
+    font-weight: 400; */
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+    background-color: #171D1F;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+/* 
+.active-links{
+    position: relative;
+    border: 0;
+    background-color: rgb(103, 184, 177); 
+    padding: 0;
+    margin-right: -10px;
+    position: fixed;
+    width: 100%;
+    z-index: 2;
+    
+}
+
+.main-menu-list{
+    display: flex;
+    margin-left: 0;
+    margin-bottom: 10;
+    list-style-type: none;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: inherit;
+    text-align: left;
+    font-size: .975rem;
+    line-height: 1.6;
+    text-decoration: none;
+    z-index: 2;
+
+}
+.Home{
+    display:flex;
+    position: relative;
+    text-transform: initial;
+    letter-spacing: normal;
+    box-sizing: inherit;
+    font-size: 20px;
+    margin: 0 1px;
+    margin-right: 30px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.About{
+    display:flex;
+    position: relative;
+    text-transform: initial;
+    letter-spacing: normal;
+    box-sizing: inherit;
+    font-size: 20px;
+    margin: 0 1px;
+    margin-right: 30px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.header-buttons{
+    display: flex;
+    width: 0;
+    float: right;
+    position:static;
+    text-align: right;
+    margin-bottom: 50px;
+    font-family: inherit;
+    font-weight: inherit;
+    text-decoration: none; 
+    z-index: 2;
+}
+
+.button-list{
+    display: flex;
+    position:fixed;
+    right: 0;
+    line-height: normal;
+    width: 300px;
+    margin-top: 2rem;
+    margin-right: 6rem;
+    text-decoration: none;
+    z-index: 2;
+}
+
+.login1{
+    display: block;
+    padding: 0%;
+    margin-right: 10px ;
+    width: 150%;
+    height: 48px;
+    min-height: 44px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    
+}
+.signup1{
+    padding: 0%;
+    display: block;
+    margin-right: 10px ;
+    width: 150%;
+    height: 48px;
+    min-height: 44px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.Login{
+    display: block;
+    color: #000000;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 1rem , 1.5rem;
+    text-decoration: none;
+    
+    
+}
+
+.Sign-up{
+    display: block;
+    color: #000000;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 1rem ,1.5rem;
+    text-decoration: none;
+  
+
+} */

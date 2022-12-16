@@ -1,0 +1,85 @@
+
+.paymentPage{
+    display: grid;
+    margin: auto;
+    width: 1200px;
+    height: auto; 
+    position: relative;
+    font-size: 100%;
+    text-align: center; 
+    grid-template:400px 600px / auto auto;
+    align-items:center;
+    justify-content:space-evenly;
+}
+
+
+.userbox{
+    box-sizing: border-box;
+    color: #2c2e2f;
+    padding: 50px;
+    border-radius: 8px;
+}
+
+.textedit{
+    text-align: left;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: white;
+}
+.inputBox{
+    display: block;
+    width: 100%;
+    font-size: 20px;
+}
+
+.passBox2{
+    display: block;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+input{
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+}
+.verify{
+    margin-top: 10px;
+}
+.verifybutton{
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    background-color: #f8ce58;
+    padding: 6px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.verifybutton:hover {
+    background-color: rgb(207, 205, 205);
+    color: black;
+}
+
+.submitButton{
+    display: block;
+    width: 100%;
+    border: none;
+    border-radius: 8px;
+    background-color: #47b350;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+}
+.submitButton:hover {
+    background-color: rgb(207, 205, 205);
+    color: black;
+  }
+.space{
+    margin-bottom: 60px;
+}
+.input{
+    color: black;
+}

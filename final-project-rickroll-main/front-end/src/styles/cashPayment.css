@@ -1,0 +1,105 @@
+.paymentPage1 {
+    display: grid;
+    margin: auto;
+    width: auto;
+    height: auto;
+    position: relative;
+    font-size: 100%;
+    text-align: center;
+    grid-template: 450px 417px / auto auto;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.header {
+    color: azure;
+}
+
+.userbox1 {
+    box-sizing: border-box;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+.submitButton1:hover {
+    background-color: rgb(207, 205, 205);
+    color: black;
+}
+
+.space1 {
+    margin-bottom: 0px;
+}
+
+.input1 {
+    color: black;
+}
+
+.panning {
+    background-color: rgb(64, 116, 116);
+    border-radius: 8px;
+    border-right: 20px solid black;
+    border: 2px solid rgb(64, 116, 116);
+    display: inline-table;
+    text-decoration: none;
+    padding: 5px 50px;
+    margin: 10px;
+    font-size: 22px;
+    font-family: Arial;
+}
+
+.panning:hover {
+    background-color: #476e9e;
+}
+
+.panning:active {
+    position: relative;
+    top: 2px;
+}
+
+.Alarm {
+    background-color: rgb(223, 77, 52);
+    border-radius: 8px;
+    border-right: 20px solid black;
+    border: 2px solid rgb(228, 70, 70);
+    display: inline-table;
+    text-decoration: none;
+    padding: 20px 20px;
+    margin: 20px;
+    font-size: 22px;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+.Alarm:hover {
+    background-color: #c5df55;
+}
+
+.Alarm:active {
+    position: relative;
+    top: 2px;
+}
+
+.myButton {
+    background-color: rgb(64, 116, 116);
+    border-radius: 8px;
+    border-right: 20px solid black;
+    border: 2px solid rgb(64, 116, 116);
+    display: flex;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px 75px;
+    text-decoration: none;
+}
+
+.myButton:hover {
+    background-color: #476e9e;
+}
+
+.myButton:active {
+    position: relative;
+    top: 2px;
+}
